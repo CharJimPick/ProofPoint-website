@@ -785,8 +785,8 @@ a {
   transition: outline 0.2s ease-in-out;
 }
 .cid-vbH3plBVH8 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #faf9f7;
 }
 .cid-vbH3plBVH8 .mbr-fallback-image.disabled {
@@ -831,6 +831,8 @@ a {
 }
 .cid-vbkxN2zM4Q {
   display: flex;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vbkxN2zM4Q .mbr-fallback-image.disabled {
@@ -855,7 +857,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-vbkxN2zM4Q {
-    align-items: center;
+    align-items: flex-start;
   }
   .cid-vbkxN2zM4Q .row {
     justify-content: center;
@@ -889,16 +891,16 @@ a {
   color: #1c1f23;
 }
 .cid-vbo9HNy84F {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vbo9HNy84F .content-text {
   max-width: 800px;
 }
 .cid-vckQz2Ov2X {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #faf9f7;
 }
 .cid-vckQz2Ov2X .mbr-fallback-image.disabled {
@@ -1015,8 +1017,8 @@ a {
   color: #000000;
 }
 .cid-vcmIWBV2wm {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vcmIWBV2wm .mbr-fallback-image.disabled {
@@ -1089,7 +1091,7 @@ a {
 }
 .cid-vbkYz6DnAU {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vbkYz6DnAU .mbr-fallback-image.disabled {
@@ -1110,6 +1112,8 @@ a {
 }
 .cid-vbkTrGzz9G {
   display: flex;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vbkTrGzz9G .mbr-fallback-image.disabled {
@@ -1169,6 +1173,8 @@ a {
 }
 .cid-vbkWvj60oW {
   display: flex;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #faf9f7;
 }
 .cid-vbkWvj60oW .mbr-fallback-image.disabled {
@@ -1227,8 +1233,8 @@ a {
   color: #1c1f23;
 }
 .cid-vbo67IOb38 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #faf9f7;
 }
 .cid-vbo67IOb38 .content-text {
@@ -1236,6 +1242,8 @@ a {
 }
 .cid-vbkWwCeUJw {
   display: flex;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #faf9f7;
 }
 .cid-vbkWwCeUJw .mbr-fallback-image.disabled {
